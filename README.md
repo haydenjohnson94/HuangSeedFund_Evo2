@@ -1,7 +1,9 @@
-## Fine-tuning tutorial for Evo2
-This tutorial goes through a toy fine-tuning example end to end starting with a fasta and continuing training a hugging
-face checkpoint on this user defined dataset.
+##Fine-tuning tutorial for Evo2
+This tutorial is a version of the Evo2 repository tutorial (https://github.com/NVIDIA/bionemo-framework/blob/ca16c2acf9bf813d020b6d1e2d4e1240cfef6a69/docs/docs/user-guide/examples/bionemo-evo2/fine-tuning-tutorial.ipynb) but it is expanded from single to multi-GPU
 
+```python
+## We acknowledge Jeff Penn of OSU for his support in running the following code
+```
 
 ```python
 # Clean up any prior runs
