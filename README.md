@@ -1,7 +1,11 @@
-## Fine-tuning tutorial for Evo2
+## We acknowledge Jeff Penn of OSU for his support in running the following code
+
+
+```python
+##Fine-tuning tutorial for Evo2
 This tutorial goes through a toy fine-tuning example end to end starting with a fasta and continuing training a hugging
 face checkpoint on this user defined dataset.
-
+```
 
 ```python
 # Clean up any prior runs
